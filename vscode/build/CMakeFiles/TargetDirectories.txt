@@ -1,0 +1,3 @@
+C:/avr_vscode/atmega128a/build/CMakeFiles/atmega128a.elf.dir
+C:/avr_vscode/atmega128a/build/CMakeFiles/edit_cache.dir
+C:/avr_vscode/atmega128a/build/CMakeFiles/rebuild_cache.dir
